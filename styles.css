@@ -31,6 +31,10 @@
     color: rgb(160, 181, 255) ;
 }
 
+h1{
+    text-align: center;
+    color: rgb(253, 108, 36);
+}
 
 .story{
     height: 50%;
@@ -43,7 +47,6 @@
 .headshot{
     height: 408px;
     width: 198px;
-    background-color: brown;
     display: flex;
     flex-direction: column;
 }
