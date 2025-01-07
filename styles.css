@@ -6,4 +6,11 @@
     list-style: none ;
 }
 
-.header{}
+.header{
+    position: fixed ;
+    top: 0 ;
+    left: 0 ;
+    width: 100% ;
+    padding: 35px 12%;
+    background: rgb(255, 139, 0);
+}
