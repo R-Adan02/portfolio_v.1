@@ -31,8 +31,30 @@
     color: rgb(160, 181, 255) ;
 }
 
-.story{}
 
-.headshot{}
+.story{
+    height: 50%;
+    width: 50%;
+    background-color: blue;
+    display: flex;
+    flex-direction: column;
+}
+
+.headshot{
+    height: 50%;
+    width: 50%;
+    background-color: brown;
+    display: flex;
+    flex-direction: column;
+}
+
+.wrapper{
+    display: flex;
+    flex-flow: row;
+    text-align: left;
+    justify-content: space-evenly ;
+    align-items: center;
+}
+    
 
   
