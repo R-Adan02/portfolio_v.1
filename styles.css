@@ -15,7 +15,7 @@
     left: 0 ;
     width: 100% ;
     padding: 35px 12%;
-    background: rgb(253, 218, 36);
+    background: rgb(255, 250, 160);
     display: flex ;
     justify-content: space-between ;
     align-items: center ;
@@ -23,7 +23,8 @@
 
 .navbar a{
     font-size: 20px ;
-    color: rgb(253, 108, 36) 
+    color: rgb(253, 108, 36) ;
+    margin: 0 20px ;
 
 }
 
