@@ -37,12 +37,12 @@
     width: 50%;
     background-color: blue;
     display: flex;
-    flex-direction: column;
+    align-self: flex-start;
 }
 
 .headshot{
-    height: 50%;
-    width: 50%;
+    height: 408px;
+    width: 198px;
     background-color: brown;
     display: flex;
     flex-direction: column;
