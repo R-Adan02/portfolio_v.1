@@ -87,12 +87,19 @@ footer{
     font-size: 25px;
 }
 
+.container3 p{
+    color: rgb(253, 108, 36);
+}
+
 .banner{
     display: flex;
     flex-wrap: wrap;
-    border: 1px solid;
     width: 100vw;
     height: 360px;
+}
+
+.banner img{
+    width: 100vw;
 }
 
     
