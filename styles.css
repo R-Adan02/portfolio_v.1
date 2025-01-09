@@ -36,6 +36,10 @@ h1{
     color: rgb(253, 108, 36);
 }
 
+footer{
+    text-align: end ;
+}
+
 .story{
     height: 50%;
     width: 50%;
