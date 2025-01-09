@@ -52,10 +52,10 @@ h1{
 
 .wrapper{
     display: flex;
-    flex-flow: row;
-    text-align: left;
-    justify-content: space-evenly ;
-    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    border: 1px solid;
 }
 
 .container{
