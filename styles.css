@@ -78,6 +78,15 @@ footer{
     align-items: center ;
 }
 
+.container3{
+    display: flex;
+    flex-flow: row ;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center ;
+    font-size: 25px;
+}
+
 .banner{
     display: flex;
     flex-wrap: wrap;
