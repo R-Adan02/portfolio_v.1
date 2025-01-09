@@ -13,7 +13,7 @@
     position: fixed ;
     top: 0 ;
     left: 0 ;
-    width: 100% ;
+    width: 100vw ;
     padding: 35px 12%;
     background: rgb(255, 250, 160);
     display: flex ;
@@ -78,6 +78,13 @@ footer{
     align-items: center ;
 }
 
+.banner{
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid;
+    width: 100vw;
+    height: 360px;
+}
 
     
 
